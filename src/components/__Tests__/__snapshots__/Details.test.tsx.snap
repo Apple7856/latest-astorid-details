@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Details Component Test Create SnapShot 1`] = `
+<div
+  className="MuiContainer-root MuiContainer-maxWidthMd css-1n2gf07-MuiContainer-root"
+>
+  <h3
+    className="MuiTypography-root MuiTypography-h3 css-gepadz-MuiTypography-root"
+    data-testid="heading"
+  >
+    Astroid Details
+  </h3>
+  <p
+    className="MuiTypography-root MuiTypography-body1 css-ahj2mt-MuiTypography-root"
+    data-testid="nameTest"
+  >
+    name: 
+    Harry
+  </p>
+  <p
+    className="MuiTypography-root MuiTypography-body1 css-ahj2mt-MuiTypography-root"
+    data-testid="nasa_jpl_url"
+  >
+    nasa_jpl_url: 
+    xyz
+  </p>
+  <p
+    className="MuiTypography-root MuiTypography-body1 css-ahj2mt-MuiTypography-root"
+    data-testid="is_potentially_hazardous_asteroid"
+  >
+    Is_potentially_hazardous_asteroid: 
+    true
+  </p>
+</div>
+`;
